@@ -78,6 +78,7 @@ MPP is payment-method agnostic. Each chain or rail has its own plugin.
 - [mega-mpp-sdk](https://github.com/ifavo/mega-mpp-sdk) - MegaETH payment method for MPP.
 - [skalenetwork/mpp-sdk](https://github.com/skalenetwork/mpp-sdk) - SKALE payment method for MPP.
 - [zimppy](https://github.com/betterclever/zimppy) - Zcash private payments for AI agents.
+- [nano-invoice](https://github.com/dhyabi2/nano-invoice) - Bind a Nano (XNO) payment to the order it pays for: idempotent invoices, unique tagged amounts, ledger-verified receipts. Non-custodial, stdlib Python.
 - [@0xsquid/mpp](https://www.npmjs.com/package/@0xsquid/mpp) - Cross-chain payments via Squid Router.
 - [mppx-stableyard](https://github.com/stableyardfi/mppx-stableyard) - Any chain in, any chain out, with fiat settlement.
 - [@monad-crypto/mpp](https://github.com/monad-crypto/mpp) - Monad payment method for MPP.
