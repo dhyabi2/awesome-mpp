@@ -136,6 +136,7 @@ The mppx TypeScript SDK includes built-in middleware for Hono, Express, Next.js,
 - [APIbase](https://github.com/whiteknightonhorse/APIbase) - Universal MCP gateway for AI agents with 413 tools across 123 providers. Pay per call with x402 and MPP.
 - [bitrouter](https://github.com/bitrouter/bitrouter) - Agentic proxy for modern agent runtimes with smart routing across LLMs, tools, and agents.
 - [agentic-wallet](https://github.com/smukh/agentic-wallet) - Unified CLI for AI agent wallets across Coinbase, Tempo, OpenWallet, and Crossmint. Interactive and non-interactive modes with JSON output and multi-chain support.
+- [nano-finality-proof](https://github.com/dhyabi2/nano-finality-proof) - Measured Nano (XNO) confirmation times with n, failures and method, so an agent knows when a payment is safe to treat as final.
 
 - [Parallel](https://parallel.ai) - Web search, page extraction, and multi-hop web research.
 ## Middleware and Extensions
