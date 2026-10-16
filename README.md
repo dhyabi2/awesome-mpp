@@ -190,6 +190,7 @@ Services with built-in MPP payment support:
 - [ScreenshotOne](https://screenshotone.com) - Website screenshot API for capturing any URL as PNG, JPEG, WebP, or PDF.
 - [Billboard](https://x.com/MPPBillboard) - Post to @MPPBillboard on X with dynamic pricing that doubles per post.
 - [Clado](https://clado.ai) - People search, LinkedIn enrichment, and deep research for lead generation.
+- [Vend Browser Agent](https://extract.paypercall.dev/api/v1/browser-agent) - Pay-per-call browser automation for AI agents, settled per call in Nano (XNO) via x402: run a real browser to search, click and answer a task, or scrape a page's text and structured data (single or in parallel), no account or API key.
 
 ### Proxied via Tempo
 
